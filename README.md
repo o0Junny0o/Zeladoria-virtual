@@ -1,6 +1,6 @@
-<center>
+<div align="center">
 <img src="Logo.jpg" alt="Logo by Jeferson Ribeiro" height="100" width="100">
-</center>
+</div>
 <h1 align="center">Zeladoria Virtual</h1>
 Equipe: Cyber-Sul
 .
