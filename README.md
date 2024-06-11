@@ -1,4 +1,4 @@
-<a href="Logo.jpg">logo by Jeferson Ribeiro</a>
+<img src="Logo.jpg" alt="Logo by Jeferson Ribeiro">
 <h1 align="center">Zeladoria Virtual</h1>
 Equipe: Cyber-Sul
 .
